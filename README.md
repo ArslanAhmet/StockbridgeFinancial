@@ -1,4 +1,4 @@
-# CefSharp.MinimalExample
+# StockbridgeFinancial.Job Task Application
 
 Minimal example of how the CefSharp library can be used using the official `Nuget` packages
 

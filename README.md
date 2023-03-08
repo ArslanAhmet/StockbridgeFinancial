@@ -1,12 +1,10 @@
 # CefSharp.MinimalExample
 
 Minimal example of how the CefSharp library can be used using the official `Nuget` packages
-- .NET Framework solution (`CefSharp.MinimalExample.sln`)
-- .NET Core solution (`CefSharp.MinimalExample.netcore.sln`). 
+
+- .NET Core solution 
 
 Includes examples for
-- WinForms
-- WPF
 - OffScreen
  
 For a more complete example of each project see the main `CefSharp` repository.
@@ -14,8 +12,6 @@ For a more complete example of each project see the main `CefSharp` repository.
 ## .NET Core support
 
 For `.Net Core 3.1/Net 5` the following packages are now on Nuget.org
-- https://www.nuget.org/packages/CefSharp.WinForms.NETCore
-- https://www.nuget.org/packages/CefSharp.Wpf.NETCore
 - https://www.nuget.org/packages/CefSharp.OffScreen.NETCore
 - Publish Example
   - x86: `dotnet publish -f netcoreapp3.1 -r win-x86
